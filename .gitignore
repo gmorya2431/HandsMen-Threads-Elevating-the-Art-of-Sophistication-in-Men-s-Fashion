@@ -1,0 +1,7 @@
+# Salesforce-specific ignore rules
+.sfdx/
+*.log
+node_modules/
+coverage/
+npm-debug.log
+.DS_Store
